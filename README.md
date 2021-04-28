@@ -1,6 +1,6 @@
-- 👋 Hi, I’m CHETAN
-- 👀 I’m Software Engineer 
-- 🌱 I’m working at Ajira Tech
+- 👋 Hi, I’m Chetan
+- 👀 I’m a Software Engineer 
+- 🌱 Currently working at Ajira Tech
 
 
 <!---
